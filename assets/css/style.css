@@ -158,6 +158,19 @@ button:hover{
     margin-bottom:20px;
     color: #777777;
     font-family:Arial, Helvetica, sans-serif;
+}
 
 
+@media screen and (max-width:768px){
+    #maincontent{
+        width:100%;
+        margin:20px;
+
+    }
+}
+@media screen and (max-width:980px){
+    #maincontent{
+        width:80%;
+        margin:20px;
+    }
 }
