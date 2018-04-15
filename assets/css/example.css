@@ -97,6 +97,33 @@ p{
     padding:20px 10px 10px 0px;
 }
 
+/*CSS For the Portfolio Photos */
+img {
+    width:240px;
+    height:auto;
+}
+.photocontainer {
+    position: relative;
+    text-align: center;
+    color: black;
+    width: 240px;
+    height: auto;
+    margin-right:20px;
+    float:left;
+    margin-bottom:20px;
+}
+.desc {
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    position: absolute;
+    bottom: 15px;
+    padding: 5px;
+    margin: 0px;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 /* Footer */
 
 footer{
